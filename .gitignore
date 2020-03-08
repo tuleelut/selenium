@@ -1,0 +1,5 @@
+/allure-results/
+/.settings/
+/build/
+/target/
+/test-output/
